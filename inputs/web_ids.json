@@ -1,0 +1,7 @@
+{
+	"azure_vm_pricing" : {
+		"url": "https://azure.microsoft.com/{}/pricing/details/virtual-machines/{}/",
+		"id_region": "/html/body/main/section[2]/div[4]/div/div[4]/select",
+		"id_pricing_by": "html/body/main/section[2]/div[4]/div/div[6]/select"
+	}		
+}
